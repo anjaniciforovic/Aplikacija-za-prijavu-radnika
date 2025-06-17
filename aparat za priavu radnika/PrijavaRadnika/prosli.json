@@ -1,0 +1,22 @@
+[{
+	"ID": 1234,
+	"ime": "Mila",
+	"prezime": "Bojkovic",
+	"zvanje":"radnik",
+	"sifra":5678,
+	"prekovremeno":10,
+	"kasnjenja":6,
+	"bonus":200,
+	"plata":500
+},
+{
+	"ID": 5678,
+	"ime": "Anja",
+	"prezime": "Niciforovic",
+	"zvanje":"radnik",
+	"sifra":1234,
+	"prekovremeno":2,
+	"kasnjenja":1,
+	"bonus":400,
+	"plata":3000
+}]
